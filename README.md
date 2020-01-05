@@ -24,7 +24,7 @@ With 6 csv employee data create tables in postgres database to import the csv fi
 ## Graphs
 
 - ***Average Salary by Title***
-<img src="https://github.com/ktung1189/Employee-Database-A-Mystery-in-Two-Parts/blob/master/Resource/AvgSalary.png" alt='average salary by title'>
+<img src="https://github.com/ktung1189/Employee-Database-A-Mystery-in-Two-Parts/blob/master/Images/AvgSalary.png" alt='average salary by title'>
 
 - ***Entity-Relationship Diagram***
 <img src="https://github.com/ktung1189/Employee-Database-A-Mystery-in-Two-Parts/blob/master/Images/Employee_Database.png" alt='erd'>
